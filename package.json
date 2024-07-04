@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/kiran-commits/myportfolio-js",
+  "homepage": "https://github.com/kiran-commits/myportfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://kiran-commits.github.io/myportfolio-js'",
+    "build-gh": "parcel build --public-url 'https://kiran-commits.github.io/myportfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
