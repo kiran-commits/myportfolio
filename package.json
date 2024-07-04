@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/kiran-commits/myportfolio",
+  "homepage": "https://kiran-commits.github.io/myportfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
