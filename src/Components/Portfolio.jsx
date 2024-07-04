@@ -34,7 +34,7 @@ const projectList = [
     title: "Food Delivery Site",
     description:
       "Created a user-friendly website for a fictional food delivery service, emphasizing intuitive navigation and modern design to enhance user interaction and accessibility.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://omnifood-kiran-ithape.netlify.app/",
   },
   {
     title: "Malicious URL Detection",
@@ -46,7 +46,7 @@ const projectList = [
     title: "Intelligent Security Assessment Framework",
     description:
     "Developed a comprehensive security framework integrating blockchain for secure assessment records and an API for automated assessments, fortifying organizational cybersecurity and operational efficiency.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "#",
   },
 ];
 
