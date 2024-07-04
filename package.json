@@ -9,7 +9,7 @@
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://kiran-commits.github.io/myportfolio'",
     "predeploy": "npm run build-gh",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build-gh"
   },
   "repository": {
     "type": "git",
